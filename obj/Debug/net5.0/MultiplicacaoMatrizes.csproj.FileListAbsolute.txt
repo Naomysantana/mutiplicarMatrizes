@@ -1,0 +1,16 @@
+C:\Users\Samsung\Documents\git hub\MultiplicacaoMatrizes\obj\Debug\net5.0\MultiplicacaoMatrizes.csproj.AssemblyReference.cache
+C:\Users\Samsung\Documents\git hub\MultiplicacaoMatrizes\obj\Debug\net5.0\MultiplicacaoMatrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\Documents\git hub\MultiplicacaoMatrizes\obj\Debug\net5.0\MultiplicacaoMatrizes.AssemblyInfoInputs.cache
+C:\Users\Samsung\Documents\git hub\MultiplicacaoMatrizes\obj\Debug\net5.0\MultiplicacaoMatrizes.AssemblyInfo.cs
+C:\Users\Samsung\Documents\git hub\MultiplicacaoMatrizes\obj\Debug\net5.0\MultiplicacaoMatrizes.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Documents\git hub\MultiplicacaoMatrizes\bin\Debug\net5.0\MultiplicacaoMatrizes.exe
+C:\Users\Samsung\Documents\git hub\MultiplicacaoMatrizes\bin\Debug\net5.0\MultiplicacaoMatrizes.deps.json
+C:\Users\Samsung\Documents\git hub\MultiplicacaoMatrizes\bin\Debug\net5.0\MultiplicacaoMatrizes.runtimeconfig.json
+C:\Users\Samsung\Documents\git hub\MultiplicacaoMatrizes\bin\Debug\net5.0\MultiplicacaoMatrizes.runtimeconfig.dev.json
+C:\Users\Samsung\Documents\git hub\MultiplicacaoMatrizes\bin\Debug\net5.0\MultiplicacaoMatrizes.dll
+C:\Users\Samsung\Documents\git hub\MultiplicacaoMatrizes\bin\Debug\net5.0\ref\MultiplicacaoMatrizes.dll
+C:\Users\Samsung\Documents\git hub\MultiplicacaoMatrizes\bin\Debug\net5.0\MultiplicacaoMatrizes.pdb
+C:\Users\Samsung\Documents\git hub\MultiplicacaoMatrizes\obj\Debug\net5.0\MultiplicacaoMatrizes.dll
+C:\Users\Samsung\Documents\git hub\MultiplicacaoMatrizes\obj\Debug\net5.0\ref\MultiplicacaoMatrizes.dll
+C:\Users\Samsung\Documents\git hub\MultiplicacaoMatrizes\obj\Debug\net5.0\MultiplicacaoMatrizes.pdb
+C:\Users\Samsung\Documents\git hub\MultiplicacaoMatrizes\obj\Debug\net5.0\MultiplicacaoMatrizes.genruntimeconfig.cache
